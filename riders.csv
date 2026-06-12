@@ -1,0 +1,51 @@
+id,name,phone,city,zone,vehicle_type,experience_years,total_deliveries,rating,trust_score,status,verified,daily_earnings_ngn
+1,Emeka Okafor,08031234567,Lagos,Lagos Island,Motorcycle,3,1240,4.7,88.5,active,true,12500
+2,Chidi Nwosu,08051234568,Lagos,Lagos Mainland,Bicycle,1,320,4.2,71.0,active,true,6800
+3,Tunde Adeyemi,08071234569,Lagos,Lekki,Motorcycle,5,2890,4.9,95.2,active,true,18200
+4,Seun Balogun,08091234570,Lagos,Ikeja,Car,2,780,4.5,82.3,active,true,21000
+5,Biodun Fashola,08011234571,Lagos,Surulere,Motorcycle,4,1650,4.6,87.1,active,true,14300
+6,Kelechi Eze,08031234572,Lagos,Victoria Island,Motorcycle,6,3100,4.8,93.4,active,true,19500
+7,Musa Abdullahi,08051234573,Lagos,Yaba,Bicycle,0,45,3.8,52.0,active,false,3200
+8,Femi Adeleke,08071234574,Lagos,Lagos Island,Motorcycle,2,890,4.4,79.6,active,true,13100
+9,Rotimi Adesanya,08091234575,Lagos,Ajah,Motorcycle,1,210,4.0,63.5,inactive,false,0
+10,Uche Obi,08011234576,Lagos,Mainland,Bicycle,3,990,4.3,76.8,active,true,7400
+11,Gbenga Owolabi,08031234577,Lagos,Lekki,Car,7,4200,4.9,97.1,active,true,28000
+12,Ayo Oluwaseun,08051234578,Lagos,Ikeja,Motorcycle,0,12,3.5,41.2,active,false,2100
+13,Nnamdi Okeke,08071234579,Lagos,Victoria Island,Motorcycle,4,1820,4.7,89.3,active,true,16700
+14,Damilola Afolabi,08091234580,Lagos,Surulere,Bicycle,2,560,4.1,68.4,active,true,5900
+15,Kayode Jimoh,08011234581,Lagos,Yaba,Motorcycle,5,2340,4.8,91.7,active,true,17400
+16,Ifeanyi Nwachukwu,08031234582,Lagos,Ajah,Motorcycle,1,180,3.9,58.3,inactive,false,0
+17,Tobi Akinwande,08051234583,Lagos,Lagos Island,Car,3,1100,4.6,85.0,active,true,22500
+18,Olawale Bankole,08071234584,Lagos,Mainland,Motorcycle,2,670,4.3,74.2,active,true,12000
+19,Desmond Okonkwo,08091234585,Lagos,Lekki,Motorcycle,8,5100,4.9,98.3,active,true,31000
+20,Adewale Ojo,08011234586,Lagos,Ikeja,Bicycle,0,28,3.6,44.7,active,false,2800
+21,Pius Eze,08031234587,Lagos,Victoria Island,Motorcycle,3,1320,4.5,83.6,active,true,14800
+22,Bola Salami,08051234588,Lagos,Surulere,Motorcycle,6,3400,4.8,94.1,suspended,true,0
+23,Jide Ogundimu,08071234589,Lagos,Yaba,Car,4,1700,4.7,88.9,active,true,24000
+24,Chisom Nweke,08091234590,Lagos,Ajah,Motorcycle,1,290,4.1,65.0,active,false,9200
+25,Hakeem Lawal,08011234591,Lagos,Lagos Island,Motorcycle,5,2600,4.8,92.5,active,true,18900
+26,Babatunde Alabi,08031234592,Lagos,Mainland,Bicycle,2,480,4.0,66.8,active,true,5400
+27,Kunle Adewale,08051234593,Lagos,Lekki,Motorcycle,7,4500,4.9,96.4,active,true,27500
+28,Obinna Chukwu,08071234594,Lagos,Ikeja,Motorcycle,0,8,3.2,38.1,inactive,false,0
+29,Sola Adeyinka,08091234595,Lagos,Victoria Island,Car,5,2100,4.8,91.0,active,true,29500
+30,Lekan Fasanya,08011234596,Lagos,Surulere,Motorcycle,3,1080,4.4,80.7,active,true,13600
+31,Emeka Ugwu,08031234597,Lagos,Yaba,Motorcycle,4,1900,4.6,87.8,active,true,15200
+32,Tolu Makinde,08051234598,Lagos,Ajah,Bicycle,1,150,3.8,55.3,active,false,3600
+33,Chuka Anyanwu,08071234599,Lagos,Lagos Island,Motorcycle,6,3200,4.8,93.9,active,true,20100
+34,Wale Odunsi,08091234600,Lagos,Mainland,Motorcycle,2,720,4.2,72.5,active,true,11400
+35,Gbemiga Afolabi,08011234601,Lagos,Lekki,Car,9,6000,5.0,99.1,active,true,35000
+36,Nonso Okafor,08031234602,Lagos,Ikeja,Motorcycle,1,340,4.1,64.2,active,true,9800
+37,Fola Adeleke,08051234603,Lagos,Victoria Island,Motorcycle,4,1760,4.7,89.0,active,true,16200
+38,Ike Nweze,08071234604,Lagos,Surulere,Bicycle,0,19,3.4,40.5,active,false,1900
+39,Dayo Ogunleye,08091234605,Lagos,Yaba,Motorcycle,5,2450,4.8,92.1,active,true,17800
+40,Segun Adesina,08011234606,Lagos,Ajah,Motorcycle,3,1150,4.5,84.0,active,true,13200
+41,Aminu Garba,08031234607,Lagos,Lagos Island,Motorcycle,2,630,4.3,75.6,active,true,11700
+42,Chinedu Okwu,08051234608,Lagos,Mainland,Car,6,3600,4.9,95.8,active,true,32000
+43,Remi Olatunji,08071234609,Lagos,Lekki,Motorcycle,1,260,4.0,62.1,inactive,false,0
+44,Ugo Nnadi,08091234610,Lagos,Ikeja,Motorcycle,4,1980,4.7,90.2,active,true,16500
+45,Taiwo Olawale,08011234611,Lagos,Victoria Island,Bicycle,2,510,4.2,69.7,active,true,6100
+46,Bashir Musa,08031234612,Lagos,Surulere,Motorcycle,7,4100,4.9,96.9,active,true,26800
+47,Chibunna Ogu,08051234613,Lagos,Yaba,Motorcycle,0,33,3.7,46.3,active,false,3100
+48,Dotun Abiodun,08071234614,Lagos,Ajah,Car,5,2300,4.8,91.5,active,true,28500
+49,Ola Adegoke,08091234615,Lagos,Lagos Island,Motorcycle,3,1300,4.5,83.2,active,true,14100
+50,Niyi Oluwole,08011234616,Lagos,Mainland,Motorcycle,4,1840,4.6,88.0,active,true,15600
